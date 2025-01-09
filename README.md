@@ -1,7 +1,15 @@
 ***
 最近有点上头的歌是黄龄的《彩色复活券》[这里是网易云传送门](https://y.music.163.com/m/song?id=2641552552)
-
 ***
+我们的MC**国际版 基岩版**服务器地址：**diystu.top**，名称可以随意填，端口保持**默认**不要更改就好啦
+
+QQ群在这里[点击加群](https://qm.qq.com/cgi-bin/qm/qr?k=fYZWVnGg3pB_v7DwaqNx0qbiBlR8KFsO&jump_from=webapi&authKey=ydmxFK8RnPGGfAIlou5sRQt+8Glhjtyb51gCaQAVXWsR+4uYCsqOzGUhpcUgtV5S)
+
+没有买MC可以从这里下载安卓版（比较老的手机可能会用不了）
+[minecraft1.21.51.02_v8a.apk](https://downloads.yves.eu.org/minecraft1.21.51.02_v8a.apk)
+***
+#### 1月8日
+第一次成功建起了mc服务器，好耶
 
 #### 1月7日
 7:00，天亮了，该睡了
